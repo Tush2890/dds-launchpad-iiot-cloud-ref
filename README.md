@@ -1,1 +1,1 @@
-# Tush2890-dds-launchpad-iiot-cloud-ref
+# dds-launchpad-iiot-cloud-ref
